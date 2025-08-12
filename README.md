@@ -1,2 +1,3 @@
 # BancoPortugol
-Lancado a versão atualizada com senha do Banco
+Repositorio sobre Banco
+
